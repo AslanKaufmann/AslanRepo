@@ -37,7 +37,7 @@ public class Sterne
 
 	}
 
-	private static void starwarsiskuhl1elf()
+	private static void starwarsiskuhl1e1lf()
 	{
 
 	}
