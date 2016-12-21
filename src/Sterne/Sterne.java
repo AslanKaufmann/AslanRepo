@@ -37,6 +37,11 @@ public class Sterne
 
 	}
 
+	private static void starwarsiskuhl()
+	{
+
+	}
+
 
 	public static void main(String[] args)
 	   {
