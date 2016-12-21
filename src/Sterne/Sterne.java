@@ -24,7 +24,7 @@ public class Sterne
 		// TODO Auto-generated method stub
 
 	}
-
+	 //Kommentar von Serdar
 	private static void zeichnenSternrand(int pLänge)
 	{
 		System.out.print("*");
