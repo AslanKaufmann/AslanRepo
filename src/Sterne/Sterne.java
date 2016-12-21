@@ -42,4 +42,6 @@ public class Sterne
 	   {
 		zeichnenQuadrat();
 	   }
+
+	public static void vorLangerZeitInEinerWeitWeitEntferntenGalaxis() {/**Fabian**/}
 }
